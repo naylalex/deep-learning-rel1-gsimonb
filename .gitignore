@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+flowers.tfcache_0.data-00000-of-00001.tempstate15617540896453867601
+flowers.tfcache.data-00000-of-00001
+flowers.tfcache.index
+.venv
+.vscode
+datasets/
+*.h5
